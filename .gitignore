@@ -1,0 +1,4 @@
+# files and directories to ignore
+.DS_Store
+log/*.*
+tmp/*.*
