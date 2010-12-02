@@ -1,0 +1,5 @@
+Ensure you run bundler to install all gems:
+    bundle install
+
+Add the generated Gemfile.lock file to git:
+    git add Gemfile.lock
